@@ -40,7 +40,7 @@ To use the lending software simply clone the repository and replace any replace 
 
 Here is a screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshotshot.png)
 
 
 ---
